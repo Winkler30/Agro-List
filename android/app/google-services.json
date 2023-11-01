@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999725602643",
+    "project_id": "listagro-6346d",
+    "storage_bucket": "listagro-6346d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999725602643:android:912e0a6288b0bdca7ef3a6",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_agro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbk0-bcN9O2zJOtwxPn4xtXW7VS--Ge8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
